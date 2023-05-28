@@ -9,10 +9,10 @@
 	
 	<name>gen-test</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>Gentest Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
+		<name>Gentest Tech</name>
 		<url>http://landmarktechnologies.com/</url>
 	</organization>
 
